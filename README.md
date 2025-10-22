@@ -2,7 +2,7 @@
 
 ## 🚀 Full-Stack Developer | AI Enthusiast | Enterprise Software Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://thuracodes.vercel.app)
 
 > Passionate about building **scalable, AI-integrated web applications** and **enterprise-grade real-time systems**. Expertise in cutting-edge technologies and innovative problem-solving.
 
